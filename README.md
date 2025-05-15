@@ -13,6 +13,8 @@ An open-source, GPT-style customer support chatbot for a fictional e-commerce st
 - **Optional:** Multi-lingual support, auto-tagging, knowledge base editing UI.
 
 ## Project Structure
+<pre>
+```plaintext
 customer_support_bot/
 ├── .env                         # Environment variables
 ├── data/                        # Static and historical data sources
@@ -32,6 +34,9 @@ customer_support_bot/
 │       ├── analytics.py         # Chat data analytics and metrics
 │       └── chatbot.py           # Core chatbot logic
 └── venv/                        # Python virtual environment (not versioned)
+```
+</pre>
+
 
 ```
 
