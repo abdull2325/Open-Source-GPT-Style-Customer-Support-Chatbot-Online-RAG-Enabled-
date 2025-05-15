@@ -14,24 +14,24 @@ An open-source, GPT-style customer support chatbot for a fictional e-commerce st
 
 ## Project Structure
 customer_support_bot/
-├── .env
-├── data/
-│   ├── chat_logs.json
-│   ├── faqs.json
-│   └── product_documentation.md
-├── main.py
-├── requirements.txt
-├── src/
+├── .env                         # Environment variables
+├── data/                        # Static and historical data sources
+│   ├── chat_logs.json           # Historical customer chat logs
+│   ├── faqs.json                # Frequently asked questions
+│   └── product_documentation.md # Product documentation
+├── main.py                      # Entry point to run the chatbot
+├── requirements.txt             # Required Python packages
+├── src/                         # Source code
 │   ├── database/
-│   │   └── vector_store.py
+│   │   └── vector_store.py      # Vector database management
 │   ├── frontend/
-│   │   └── app.py
+│   │   └── app.py               # User-facing application
 │   ├── models/
-│   │   └── gemini.py
-│   ├── utils/
-│   │   ├── analytics.py
-│   │   └── chatbot.py
-└── venv/
+│   │   └── gemini.py            # Language model integration (e.g., Gemini/LLM)
+│   └── utils/
+│       ├── analytics.py         # Chat data analytics and metrics
+│       └── chatbot.py           # Core chatbot logic
+└── venv/                        # Python virtual environment (not versioned)
 
 ```
 
