@@ -91,12 +91,4 @@ streamlit run src/frontend/app.py
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-MIT
 
-## Acknowledgments
-- Hugging Face Transformers
-- SentenceTransformers
-- FAISS
-- Streamlit
-- Google Gemini API
