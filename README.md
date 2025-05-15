@@ -61,9 +61,7 @@ pip install -r requirements.txt
 Install PyTorch with Metal backend:
 
 ```
-pip install --pre torch torchvision torchaudio 
---extra-index-url https://download.pytorch.org/
-whl/nightly/cpu
+
 ```
 ### 4. Add Environment Variables
 Create a .env file in the root directory and add your Gemini API key:
