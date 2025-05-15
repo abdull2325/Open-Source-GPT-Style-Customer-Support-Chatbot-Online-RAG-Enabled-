@@ -1,0 +1,44 @@
+{
+  "faqs": [
+    {
+      "question": "What is your return policy?",
+      "answer": "We offer a 30-day return policy for all unused and unopened items. For opened items, we offer a 14-day return policy. Please contact our customer support team to initiate a return."
+    },
+    {
+      "question": "How long does shipping take?",
+      "answer": "Standard shipping typically takes 3-5 business days within the continental US. Express shipping is available for 1-2 business days delivery. International shipping may take 7-14 business days depending on the destination country."
+    },
+    {
+      "question": "Do you ship internationally?",
+      "answer": "Yes, we ship to over 100 countries worldwide. International shipping rates vary by destination and package weight. Please note that customers are responsible for any import duties or taxes imposed by their country."
+    },
+    {
+      "question": "How can I track my order?",
+      "answer": "Once your order ships, you will receive a confirmation email with a tracking number. You can use this tracking number on our website under 'Order Tracking' or directly on the carrier's website."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept all major credit cards (Visa, MasterCard, American Express, Discover), PayPal, Apple Pay, and Google Pay. We also offer financing options through Affirm for orders over $100."
+    },
+    {
+      "question": "How do I create an account?",
+      "answer": "You can create an account by clicking on the 'Sign Up' button in the top right corner of our website. You'll need to provide your email address and create a password. You can also sign up using your Google or Facebook account for faster registration."
+    },
+    {
+      "question": "Can I change or cancel my order?",
+      "answer": "You can change or cancel your order within 1 hour of placing it. After that, if the order hasn't shipped yet, please contact our customer service team immediately, and we'll do our best to accommodate your request."
+    },
+    {
+      "question": "Do you offer gift wrapping?",
+      "answer": "Yes, we offer gift wrapping services for $5 per item. You can select this option during checkout and even include a personalized message to the recipient."
+    },
+    {
+      "question": "What is your price match policy?",
+      "answer": "We offer price matching for identical items sold by major retailers. If you find a lower price within 14 days of purchase, contact us with proof of the lower price, and we'll refund the difference."
+    },
+    {
+      "question": "How do I apply a promo code?",
+      "answer": "You can apply a promo code during checkout. After adding items to your cart, proceed to checkout, and you'll see a field labeled 'Promo Code' or 'Discount Code' where you can enter your code before finalizing your purchase."
+    }
+  ]
+}
